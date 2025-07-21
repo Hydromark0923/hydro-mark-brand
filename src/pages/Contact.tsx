@@ -48,13 +48,13 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Phone",
-      details: "+1 (555) 123-4567",
-      subtitle: "Mon-Fri 9AM-6PM"
+      details: "+91 9193248166",
+      subtitle: "Mon-Sat 9AM-6PM"
     },
     {
       icon: Mail,
       title: "Email",
-      details: "info@hydromark.com",
+      details: "hydromark0923@gmail.com",
       subtitle: "We'll respond within 24 hours"
     },
     {
@@ -67,7 +67,7 @@ export default function Contact() {
       icon: Clock,
       title: "Business Hours",
       details: "Monday - Friday: 9AM - 6PM",
-      subtitle: "Saturday: 10AM - 4PM"
+      subtitle: ""
     }
   ];
 
