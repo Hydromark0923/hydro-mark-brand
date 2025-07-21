@@ -42,17 +42,17 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground text-sm">+1 (555) 123-4567</span>
+                <span className="text-muted-foreground text-sm">+91 91932 48166</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground text-sm">info@hydromark.com</span>
+                <span className="text-muted-foreground text-sm">hydromark0923@gmail.com </span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="h-4 w-4 text-primary mt-0.5" />
                 <span className="text-muted-foreground text-sm">
-                  123 Business Avenue<br />
-                  Suite 100, City, State 12345
+                  Beladi Salhapur<br />
+                  Roorkee, Haridwar PIN-247667
                 </span>
               </div>
             </div>
