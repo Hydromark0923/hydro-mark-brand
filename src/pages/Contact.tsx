@@ -60,8 +60,8 @@ export default function Contact() {
     {
       icon: MapPin,
       title: "Address",
-      details: "123 Business Avenue, Suite 100",
-      subtitle: "City, State 12345"
+      details: "Beladi Salhapur",
+      subtitle: "Roorkee, Haridwar PIN-247667"
     },
     {
       icon: Clock,
